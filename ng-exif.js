@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('ng.exif', [])
-    .directive('ngExifFile', [, function () {
+    .directive('ngExifFile', function () {
 
         function getExifData(image){
           return EXIF.getData(image, function () {});
@@ -25,4 +25,4 @@ angular.module('ng.exif', [])
                 });
             }
         };
-    }]);
+    });
