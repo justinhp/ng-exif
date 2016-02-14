@@ -17,7 +17,7 @@
     ".idea/",
     "gulpfile.js",
     "bower_components",
-    "node_modules"
+    "node_modules",
     "package.json"
   ],
   "dependencies": {
