@@ -1,0 +1,27 @@
+{
+  "author": "Justin Hugelen-Padin",
+  "version": "1.0.0",
+  "name": "ng-exif",
+  "description": "Angular directive wrapper of exif-js for reading EXIF image metadata.",
+  "homepage": "https://github.com/justinhp/ng-exif",
+  "main": "ng-exif.js",
+  "keywords": [
+    "exif",
+    "exif-js",
+    "angular",
+    "angularjs",
+    "directive"
+  ],
+  "ignore": [
+    "**/.*",
+    ".idea/",
+    "gulpfile.js",
+    "bower_components",
+    "node_modules"
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": ">=1.1.0",
+    "exif-js": "~2.1.0"
+  }
+}
