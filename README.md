@@ -24,7 +24,7 @@ How It Works
 1. When a file or files are selected exif.js verifies if it is a jpg image.
 2. If the file is a valid jpg image then exif.js grabs all the meta data it can from it
 3. exif.js adds two properties: exifdata and iptcdata
-4. ng-exif makes sure that those two properties are added to whichever scope object is linked
+4. ng-exif makes sure that those two properties are added to given scope object
 
 Usage
 -----
