@@ -5,6 +5,7 @@
   "description": "Angular directive wrapper of exif-js for reading EXIF image metadata.",
   "homepage": "https://github.com/justinhp/ng-exif",
   "main": "ng-exif.js",
+  
   "keywords": [
     "exif",
     "exif-js",
